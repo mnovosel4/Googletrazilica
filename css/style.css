@@ -1,0 +1,47 @@
+body {
+    font-family: 'Yeon Sung', cursive;
+}
+
+.prvidio {
+margin-left: 400px;
+}
+
+.naslov {
+font-size: 40px;
+margin-left: 450px;
+}
+
+.prvaslika {
+margin-left: 550px;
+}
+
+.topnav {
+margin-left: 560px;
+margin-bottom: 25px;
+}
+
+.plavi {
+background-color: #4d79ff;
+border-radius: 5px;
+width: 200px;
+margin: 0px auto;
+padding: 10px;
+}
+
+.account {
+margin-left: 620px;
+}
+
+.createaccount {
+margin-top: 50px;
+margin-left: 580px;
+}
+
+.onegoogle {
+margin-top: 50px;
+margin-left: 500px;
+}
+
+.slike {
+margin-left: 580px;
+}
